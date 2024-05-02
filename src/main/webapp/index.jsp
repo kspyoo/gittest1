@@ -10,10 +10,10 @@
 <body>
   <div style="margin: 50px;">
       <h1>깃 테스트</h1>
-      <ol>
-          <li>강승표: 범죄도시4</li>
-          
-      </ol>
+        <ol>
+            <li>강승표: 범죄도시4</li>
+            <li>강승표: 범죄도시3</li>
+        </ol>
   </div> 
 </body>
 </html>
